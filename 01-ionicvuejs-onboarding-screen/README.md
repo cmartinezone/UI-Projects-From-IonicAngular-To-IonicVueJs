@@ -2,10 +2,11 @@
 
 
 Mobile app Onboarding Screen with ionic VueJs.
-Inspired and ported from Ionic Vue Angular project:
+Inspired and ported from Ionic Angular project:
 
 Angular project and design credits to: <a href="https://github.com/gihan667">Gihan Lakshan
-</a>
+</a>, watch his video [YouTube](https://youtu.be/OGcAuaAQ6s8)
+
 
 <a href="https://github.com/gihan667/ionic-onboarding-screen">ionic-onboarding-screen Angular🔥</a>
 
