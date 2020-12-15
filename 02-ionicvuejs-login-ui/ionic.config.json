@@ -1,0 +1,7 @@
+{
+  "name": "vuejs-template-blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

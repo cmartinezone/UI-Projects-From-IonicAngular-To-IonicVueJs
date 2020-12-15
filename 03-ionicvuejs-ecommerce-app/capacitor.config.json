@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "vuejs-template-blank",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
